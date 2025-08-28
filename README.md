@@ -26,8 +26,9 @@ Mi propuesta de valor es unir la *rigurosidad analítica* con la *visión de neg
 ### 1. Predicción de suscripción a depósitos a plazo en campañas de marketing
 - *Herramientas*: Python, scikit-learn, SQL, Power BI  
 - *Descripción*: Uso de datos públicos de marketing bancario, balanceo de clases y modelado de clasificación para predecir la suscripción a depósitos.  
-- *Resultados*: Modelo predictivo con mejoras en precisión gracias a técnicas de balanceo.  
-- [Repositorio](#) (pendiente de subir)
+- *Resultados*: Modelo predictivo con mejoras en precisión gracias a técnicas de balanceo.
+- [Repositorio](#) [https://github.com/Ingrid-88/Bank-Marketing-Prediction]
+
 
 ---
 
@@ -35,7 +36,7 @@ Mi propuesta de valor es unir la *rigurosidad analítica* con la *visión de neg
 - *Herramientas*: Python, Streamlit, Power BI  
 - *Descripción*: Sistema de Apoyo a Decisiones que perfila clientes y genera informes automáticos a partir de logs procesados en Streamlit.  
 - *Resultados*: Dashboards gerenciales en Power BI con visualización de KPIs de aprobación crediticia.  
-- [Repositorio](#) [https://github.com/Ingrid-88/Bank-Marketing-Prediction]
+- [Repositorio](#) (pendiente de subir)
 
 ---
 
