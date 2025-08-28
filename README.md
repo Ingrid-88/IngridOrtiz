@@ -35,7 +35,7 @@ Mi propuesta de valor es unir la *rigurosidad analítica* con la *visión de neg
 - *Herramientas*: Python, Streamlit, Power BI  
 - *Descripción*: Sistema de Apoyo a Decisiones que perfila clientes y genera informes automáticos a partir de logs procesados en Streamlit.  
 - *Resultados*: Dashboards gerenciales en Power BI con visualización de KPIs de aprobación crediticia.  
-- [Repositorio](#) (pendiente de subir)
+- [Repositorio](#) [https://github.com/Ingrid-88/Bank-Marketing-Prediction]
 
 ---
 
