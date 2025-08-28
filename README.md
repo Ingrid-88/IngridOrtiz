@@ -5,7 +5,7 @@
 Bienvenid@ a mi portafolio en GitHub.  
 ##  Sobre Mí
 
-Soy profesional con más de 15 años de experiencia en *gestión financiera y análisis de datos, y recientemente graduada del **Máster en Estadística Computacional y Ciencia de Datos para la Toma de Decisiones (UMH, 2025)*.  
+Soy profesional con más de 15 años de experiencia en *gestión financiera y análisis de datos, y recientemente graduada del **Máster en Estadística Computacional y Ciencia de Datos para la Toma de Decisiones (UMH, 2025)**.  
 
 Mi propuesta de valor es unir la *rigurosidad analítica* con la *visión de negocio, desarrollando dashboards y modelos que faciliten la **toma de decisiones basadas en datos*.
 
