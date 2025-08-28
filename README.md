@@ -3,7 +3,7 @@
 *Data Analyst | Business Intelligence | Finanzas y Control de Gestión*
 
 Bienvenid@ a mi portafolio en GitHub.  
-## 👩‍💻 Sobre Mí
+##  Sobre Mí
 
 Soy profesional con más de 15 años de experiencia en *gestión financiera y análisis de datos, y recientemente graduada del **Máster en Estadística Computacional y Ciencia de Datos para la Toma de Decisiones (UMH, 2025)*.  
 
@@ -11,7 +11,7 @@ Mi propuesta de valor es unir la *rigurosidad analítica* con la *visión de neg
 
 ---
 
-## 🔧 Habilidades técnicas
+##  Habilidades técnicas
 
 - *Lenguajes*: Python (pandas, NumPy, scikit-learn), SQL, R  
 - *Visualización y BI*: Power BI, Excel Avanzado (tablas dinámicas, macros, dashboards)  
@@ -21,7 +21,7 @@ Mi propuesta de valor es unir la *rigurosidad analítica* con la *visión de neg
 
 ---
 
-## 📊 Proyectos destacados
+##  Proyectos destacados
 
 ### 1. Predicción de suscripción a depósitos a plazo en campañas de marketing
 - *Herramientas*: Python, scikit-learn, SQL, Power BI  
@@ -48,7 +48,7 @@ Mi propuesta de valor es unir la *rigurosidad analítica* con la *visión de neg
 
 ---
 
-## 🎓 Formación
+##  Formación
 - Máster en Estadística Computacional y Ciencia de Datos para la Toma de Decisiones – UMH (2025)  
 - Grado en Administración de Empresas – UNAD (2016)  
 - Técnico en Gestión Contable y Financiera – SENA (2008)  
@@ -61,4 +61,4 @@ Mi propuesta de valor es unir la *rigurosidad analítica* con la *visión de neg
 
 ---
 
-✨ Siempre abierta a nuevas oportunidades en *Data Analytics, Business Intelligence y análisis financiero basado en datos*.
+ Siempre abierta a nuevas oportunidades en *Data Analytics, Business Intelligence y análisis financiero basado en datos*.
