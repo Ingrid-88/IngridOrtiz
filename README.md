@@ -1,4 +1,4 @@
-# ¡Hola! Soy Ingrid Johanna Ortiz Moreno
+# ¡Hola! Soy Ingrid Ortiz 
 
 *Data Analyst | Business Intelligence | Finanzas y Control de Gestión*
 
@@ -27,7 +27,7 @@ Mi propuesta de valor es unir la *rigurosidad analítica* con la *visión de neg
 - *Herramientas*: Python, scikit-learn, SQL, Power BI  
 - *Descripción*: Uso de datos públicos de marketing bancario, balanceo de clases y modelado de clasificación para predecir la suscripción a depósitos.  
 - *Resultados*: Modelo predictivo con mejoras en precisión gracias a técnicas de balanceo.
-- [Repositorio](#) [https://github.com/Ingrid-88/Bank-Marketing-Prediction]
+- *Repositorio* https://github.com/Ingrid-88/Bank-Marketing-Prediction
 
 
 ---
